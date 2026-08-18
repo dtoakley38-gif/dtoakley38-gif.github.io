@@ -1,0 +1,10 @@
+{
+  "title": "Welcome to Greek Flashcards",
+  "description": "A quick sample deck to try out studying before you load your own topic.",
+  "cards": [
+    { "front": "How do I add a new topic?", "back": "Give Claude a file (notes, PDF, doc) in chat and ask it to add a deck — it'll drop a new folder right here." },
+    { "front": "How do I flip a card?", "back": "Tap or click the card. On desktop you can also press Space or Enter." },
+    { "front": "How do I move to the next card?", "back": "Swipe left, tap Next, or press the right arrow key." },
+    { "front": "Can I use this on my iPhone?", "back": "Yes — open it in Safari and tap Share > Add to Home Screen to install it like a real app." }
+  ]
+}

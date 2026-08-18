@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+:root {
+  --color-green-deep: #06140d;
+  --color-green-dark: #0d2b1c;
+  --color-green: #1b7a4b;
+  --color-green-mid: #2e9c63;
+  --color-green-light: #6ee7a8;
+  --color-white: #ffffff;
+  --background: #06140d;
+  --surface: #0e2318;
+  --surface-2: #14301f;
+  --foreground: #ffffff;
+  --muted: #9dbfab;
+  --border: rgba(255, 255, 255, 0.09);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand-green: var(--color-green);
+  --color-brand-green-deep: var(--color-green-deep);
+  --color-brand-green-dark: var(--color-green-dark);
+  --color-brand-green-mid: var(--color-green-mid);
+  --color-brand-green-light: var(--color-green-light);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-muted: var(--muted);
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(1200px 600px at 15% -10%, rgba(46, 156, 99, 0.22), transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, rgba(27, 122, 75, 0.25), transparent 55%),
+    var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.glass {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.02));
+  border: 1px solid var(--border);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.press {
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+.press:active {
+  transform: scale(0.97);
+  opacity: 0.85;
+}
+
+@supports (padding: max(0px)) {
+  .safe-top {
+    padding-top: max(env(safe-area-inset-top), 0px);
+  }
+  .safe-bottom {
+    padding-bottom: max(env(safe-area-inset-bottom), 0px);
+  }
+}
