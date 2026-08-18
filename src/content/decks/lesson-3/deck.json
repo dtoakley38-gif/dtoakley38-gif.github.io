@@ -1,0 +1,19 @@
+{
+  "title": "Lesson 3",
+  "description": "Vocabulary from Lesson 3 — first declension feminine nouns, plus ἔχω.",
+  "cards": [
+    { "front": "ἀδελφή, ἡ", "back": "sister" },
+    { "front": "ἀλήθεια, ἡ", "back": "truth (Alethea)" },
+    { "front": "βασιλεία, ἡ", "back": "kingdom, reign, rule (basilica)" },
+    { "front": "γῆ, ἡ", "back": "earth, soil, land (geology)" },
+    { "front": "δόξα, ἡ", "back": "glory, honor (doxology)" },
+    { "front": "ἐκκλησία, ἡ", "back": "assembly, church (ecclesiastic)" },
+    { "front": "ἔχω", "back": "I have" },
+    { "front": "ζωή, ἡ", "back": "life (protozoa)" },
+    { "front": "ἡμέρα, ἡ", "back": "day (ephemeral)" },
+    { "front": "θάλασσα, ἡ", "back": "sea, lake (thalassic)" },
+    { "front": "καρδία, ἡ", "back": "heart (cardiac)" },
+    { "front": "φωνή, ἡ", "back": "voice, sound (phone)" },
+    { "front": "ὥρα, ἡ", "back": "hour, time (horoscope)" }
+  ]
+}
