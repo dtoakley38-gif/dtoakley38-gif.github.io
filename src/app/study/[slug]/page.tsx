@@ -1,8 +1,13 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getDeck } from "@/lib/decks";
+import { getDeck, listDecks } from "@/lib/decks";
 import { FlashcardStudy } from "@/components/FlashcardStudy";
 import { Mascot } from "@/components/Mascot";
+
+// A static export needs every dynamic route known at build time.
+export function generateStaticParams() {
+  return listDecks().map((deck) => ({ slug: deck.slug }));
+}
 
 export default async function StudyPage(props: PageProps<"/study/[slug]">) {
   const { slug } = await props.params;
