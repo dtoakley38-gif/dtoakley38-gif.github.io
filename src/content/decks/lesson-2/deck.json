@@ -1,0 +1,20 @@
+{
+  "title": "Lesson 2",
+  "description": "Vocabulary from Lesson 2 — common verbs, conjunctions, and the negative particle.",
+  "cards": [
+    { "front": "ἀκούω", "back": "I hear (acoustic)" },
+    { "front": "βλέπω", "back": "I see" },
+    { "front": "γινώσκω", "back": "I know (agnostic)" },
+    { "front": "γράφω", "back": "I write (graph)" },
+    { "front": "διδάσκω", "back": "I teach (didactic)" },
+    { "front": "θέλω", "back": "I wish / will / desire" },
+    { "front": "καί", "back": "and" },
+    { "front": "λέγω", "back": "I say / speak / tell (dialogue)" },
+    { "front": "λύω", "back": "I loosen / destroy (analyze)" },
+    { "front": "ὅτι", "back": "that, because" },
+    { "front": "οὐ, οὐκ, οὐχ", "back": "not" },
+    { "front": "πιστεύω", "back": "I believe" },
+    { "front": "ἀδελφός", "back": "a brother" },
+    { "front": "ἀδελφή", "back": "a sister" }
+  ]
+}
