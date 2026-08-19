@@ -1,0 +1,21 @@
+{
+  "title": "Lesson 4",
+  "description": "Vocabulary from Lesson 4 — second declension masculine and neuter nouns, plus ἀλλά and δέ.",
+  "cards": [
+    { "front": "ἀδελφός, ὁ", "back": "brother (Philadelphia)" },
+    { "front": "ἀλλά", "back": "but" },
+    { "front": "ἄνθρωπος, ὁ", "back": "human being, person, man (anthropology)" },
+    { "front": "δέ", "back": "but, and" },
+    { "front": "δοῦλος, ὁ", "back": "slave, servant" },
+    { "front": "ἔργον, τό", "back": "deed, work (energy)" },
+    { "front": "θάνατος, ὁ", "back": "death (euthanasia)" },
+    { "front": "θεός, ὁ", "back": "God, god (theology)" },
+    { "front": "κύριος, ὁ", "back": "Lord, master, owner" },
+    { "front": "λόγος, ὁ", "back": "word (logic, logo)" },
+    { "front": "νόμος, ὁ", "back": "law (economy)" },
+    { "front": "οἶκος, ὁ", "back": "house (economy)" },
+    { "front": "οὐρανός, ὁ", "back": "heaven, sky (Uranus)" },
+    { "front": "τέκνον, τό", "back": "child" },
+    { "front": "υἱός, ὁ", "back": "son" }
+  ]
+}

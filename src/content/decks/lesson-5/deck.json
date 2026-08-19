@@ -1,0 +1,20 @@
+{
+  "title": "Lesson 5",
+  "description": "Vocabulary from Lesson 5 — adjectives, the article, plus γάρ and λαμβάνω.",
+  "cards": [
+    { "front": "ἀγαθός, -ή, -όν", "back": "good, noble (Agatha)" },
+    { "front": "ἅγιος, -α, -ον", "back": "holy, consecrated (hagio-)" },
+    { "front": "γάρ", "back": "for (postpositive)" },
+    { "front": "δίκαιος, -α, -ον", "back": "righteous, just" },
+    { "front": "ἔσχατος, -η, -ον", "back": "last (eschatology)" },
+    { "front": "κακός, -ή, -όν", "back": "bad, evil (cacophony)" },
+    { "front": "καλός, -ή, -όν", "back": "good, beautiful (kaleidoscope)" },
+    { "front": "λαμβάνω", "back": "I take, receive (epilepsy)" },
+    { "front": "μικρός, -ά, -όν", "back": "small, little (micro-)" },
+    { "front": "νεκρός, -ά, -όν", "back": "dead (necromancy)" },
+    { "front": "ὁ, ἡ, τό", "back": "the" },
+    { "front": "πιστός, -ή, -όν", "back": "faithful, believing" },
+    { "front": "πονηρός, -ά, -όν", "back": "wicked, evil" },
+    { "front": "πρῶτος, -η, -ον", "back": "first (prototype)" }
+  ]
+}
