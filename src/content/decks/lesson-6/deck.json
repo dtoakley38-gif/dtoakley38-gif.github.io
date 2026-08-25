@@ -1,0 +1,24 @@
+{
+  "title": "Lesson 6",
+  "description": "Vocabulary from Lesson 6 — prepositions and their cases, plus nouns and verbs. Before vowels ἐκ is written ἐξ; note that εἰς, ἐκ, and ἐν are proclitics.",
+  "cards": [
+    { "front": "ἄγγελος, ὁ", "back": "angel, messenger (angel)" },
+    { "front": "ἀπό", "back": "(+ gen.) from (apostasy)" },
+    { "front": "βάλλω", "back": "I throw, put, place (ballistic)" },
+    { "front": "διά", "back": "(+ gen.) through; (+ acc.) for the sake of, because of (diameter)" },
+    { "front": "εἰς", "back": "(+ acc.) into, to, against (eisegesis)" },
+    { "front": "ἐκ, ἐξ", "back": "(+ gen.) out of, by (exodus)" },
+    { "front": "ἐν", "back": "(+ dat.) in (endemic, enthusiast)" },
+    { "front": "ἔρημος, ἡ", "back": "desert (hermit)" },
+    { "front": "κόσμος, ὁ", "back": "world (cosmic)" },
+    { "front": "λίθος, ὁ", "back": "stone (monolith)" },
+    { "front": "μαθητής, ὁ", "back": "disciple (mathematics)" },
+    { "front": "μένω", "back": "I remain, stay (cf. permanent)" },
+    { "front": "μετά", "back": "(+ gen.) with; (+ acc.) after, behind (metaphysics)" },
+    { "front": "ὁδός, ἡ", "back": "way, road (odometer)" },
+    { "front": "πέμπω", "back": "I send" },
+    { "front": "περί", "back": "(+ gen.) about, concerning; (+ acc.) around (perimeter)" },
+    { "front": "πρός", "back": "(+ acc.) to, toward, with (proselyte)" },
+    { "front": "προφήτης, ὁ", "back": "prophet (prophet)" }
+  ]
+}
