@@ -1,0 +1,21 @@
+{
+  "title": "Lesson 8",
+  "description": "Vocabulary from Lesson 8 — demonstratives, αὐτός as same/self, and more verbs.",
+  "cards": [
+    { "front": "ἄλλος, -η, -ο", "back": "other (allomorph)" },
+    { "front": "ἀποστέλλω", "back": "I send (apostle)" },
+    { "front": "αὐτός, -ή, -ό", "back": "same, -self (automatic)" },
+    { "front": "βαπτίζω", "back": "I baptize (baptize)" },
+    { "front": "ἐγείρω", "back": "I raise up" },
+    { "front": "εἰρήνη, ἡ", "back": "peace (irenic)" },
+    { "front": "ἐκεῖνος, -η, -ο", "back": "that" },
+    { "front": "ἐξουσία, ἡ", "back": "authority" },
+    { "front": "εὑρίσκω", "back": "I find (heuristic)" },
+    { "front": "κρίνω", "back": "I judge (critic)" },
+    { "front": "λαός, ὁ", "back": "people (laity)" },
+    { "front": "οὖν", "back": "therefore, consequently (postpositive)" },
+    { "front": "οὗτος, αὕτη, τοῦτο", "back": "this" },
+    { "front": "οὕτως", "back": "thus, so" },
+    { "front": "πρόσωπον, τό", "back": "face" }
+  ]
+}

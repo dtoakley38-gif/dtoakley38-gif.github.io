@@ -1,0 +1,20 @@
+{
+  "title": "Lesson 7",
+  "description": "Vocabulary from Lesson 7 — personal pronouns, εἰμί, and first and second declension nouns.",
+  "cards": [
+    { "front": "ἀγάπη, ἡ", "back": "love" },
+    { "front": "ἁμαρτία, ἡ", "back": "sin (hamartiology)" },
+    { "front": "ἄρτος, ὁ", "back": "bread, loaf" },
+    { "front": "αὐτός, -ή, -ό", "back": "he, she, it" },
+    { "front": "δῶρον, τό", "back": "gift" },
+    { "front": "ἐγώ", "back": "I (ego)" },
+    { "front": "εἰμί", "back": "I am" },
+    { "front": "ἐσθίω", "back": "I eat" },
+    { "front": "κατά", "back": "(+ gen.) against; (+ acc.) according to (catastrophe)" },
+    { "front": "ὄχλος, ὁ", "back": "crowd, multitude (ochlocracy)" },
+    { "front": "πλοῖον, τό", "back": "boat" },
+    { "front": "σύ", "back": "you (sing.)" },
+    { "front": "σῴζω", "back": "I save (soteriology)" },
+    { "front": "ψυχή, ἡ", "back": "soul, life (psycho-)" }
+  ]
+}
