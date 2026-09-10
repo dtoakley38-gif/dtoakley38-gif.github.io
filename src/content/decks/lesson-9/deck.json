@@ -1,0 +1,19 @@
+{
+  "title": "Lesson 9",
+  "description": "Vocabulary from Lesson 9 — deponent and middle voice verbs, compounds of ἔρχομαι, and two more prepositions.",
+  "cards": [
+    { "front": "ἁμαρτωλός, ὁ", "back": "sinner" },
+    { "front": "ἀποκρίνομαι", "back": "I answer (+ dat.)" },
+    { "front": "ἄρχω", "back": "(active voice) I rule (+ gen.); (middle voice) I begin (monarch, archetype)" },
+    { "front": "γίνομαι", "back": "become, be, happen, arise, come, appear (+ nom.)" },
+    { "front": "διέρχομαι", "back": "I go through" },
+    { "front": "δύναμαι", "back": "I can, am able" },
+    { "front": "εἰσέρχομαι", "back": "I go in, I enter" },
+    { "front": "ἐξέρχομαι", "back": "I go out" },
+    { "front": "ἔρχομαι", "back": "I come, I go" },
+    { "front": "οὐδέ", "back": "and not, nor, not even" },
+    { "front": "πορεύομαι", "back": "I go, walk, travel, live" },
+    { "front": "σύν", "back": "(+ dat.) with (symphony)" },
+    { "front": "ὑπό", "back": "(+ gen.) by; (+ acc.) under (hypodermic, hypothermia)" }
+  ]
+}

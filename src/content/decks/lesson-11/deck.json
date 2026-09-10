@@ -1,0 +1,21 @@
+{
+  "title": "Lesson 11",
+  "description": "Vocabulary from Lesson 11 — neuter nouns, correlative conjunctions, and the preposition ἐπί.",
+  "cards": [
+    { "front": "ἀμήν", "back": "amen, truly" },
+    { "front": "βιβλίον, τό", "back": "book" },
+    { "front": "δαιμόνιον, τό", "back": "demon" },
+    { "front": "δέχομαι", "back": "I receive, accept" },
+    { "front": "ἐπί", "back": "(+ gen.) on, upon, over; (+ dat.) on, at, in addition to; (+ acc.) on, over, toward, for (epidermis, epitaph)" },
+    { "front": "ἔτι", "back": "yet, still" },
+    { "front": "θεραπεύω", "back": "I heal, serve (therapy)" },
+    { "front": "ἰδού", "back": "behold! see!" },
+    { "front": "μέν … δέ", "back": "on the other hand … on the other … but …" },
+    { "front": "οὔτε", "back": "neither, nor" },
+    { "front": "ὀφθαλμός, ὁ", "back": "eye (ophthalmology)" },
+    { "front": "πάλιν", "back": "again (palimpsest)" },
+    { "front": "τέ", "back": "and (a weak conjunction, often correlated with another τέ or καί)" },
+    { "front": "τόπος, ὁ", "back": "place (topography, topic)" },
+    { "front": "τότε", "back": "then" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Lesson 10",
+  "description": "Vocabulary from Lesson 10 — verbs of motion, compounds of βαίνω, and the prepositions παρά and ὑπέρ.",
+  "cards": [
+    { "front": "ἄγω", "back": "I lead" },
+    { "front": "αἴρω", "back": "I take up, take away, lift up" },
+    { "front": "ἀναβαίνω", "back": "I go up (Anabasis)" },
+    { "front": "ἀπέρχομαι", "back": "I depart, go away, go" },
+    { "front": "ἀποθνῄσκω", "back": "I die" },
+    { "front": "ἀποκτείνω", "back": "I kill" },
+    { "front": "ἀπόστολος, ὁ", "back": "apostle" },
+    { "front": "ἱερόν, τό", "back": "temple (hierarchy)" },
+    { "front": "καταβαίνω", "back": "I go down" },
+    { "front": "μέλλω", "back": "I am about to, am going to" },
+    { "front": "ὀφείλω", "back": "I owe, ought, must" },
+    { "front": "παρά", "back": "(+ gen.) from; (+ dat.) beside, with, among; (+ acc.) by, along (parable, paralegal)" },
+    { "front": "συνάγω", "back": "I gather together (synagogue)" },
+    { "front": "ὑπέρ", "back": "(+ gen.) in behalf of; (+ acc.) above (hyperactive)" }
+  ]
+}
