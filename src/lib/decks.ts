@@ -42,7 +42,7 @@ export function listDecks(): DeckSummary[] {
       description,
       cardCount: cards.length,
     }))
-    .sort((a, b) => a.title.localeCompare(b.title));
+    .sort((a, b) => a.title.localeCompare(b.title, undefined, { numeric: true }));
 }
 
 export function getDeck(slug: string): Deck | null {
