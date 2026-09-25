@@ -1,0 +1,19 @@
+{
+  "title": "Lesson 14",
+  "description": "Vocabulary from Lesson 14 — second aorist forms and the present tense verbs they stand in for.",
+  "cards": [
+    { "front": "εἶδον", "back": "I saw (serves as the 2nd aorist of ὁράω) (idea)" },
+    { "front": "εἶπον", "back": "I said (serves as the 2nd aorist of λέγω, a verb to be learned later) (epic)" },
+    { "front": "ἦλθον", "back": "I came, went (serves as the 2nd aorist of ἔρχομαι)" },
+    { "front": "ἤνεγκα", "back": "I brought, bore, carried (irregular 1st aorist of φέρω, conjugated with -κα, not -σα)" },
+    { "front": "οἶνος, ὁ", "back": "wine (oenophile)" },
+    { "front": "ὄψομαι", "back": "I will see (serves as the deponent future of ὁράω)" },
+    { "front": "πίνω, πίομαι, ἔπιον", "back": "I drink, I will drink, I drank (pinocytosis)" },
+    { "front": "πίπτω, ἔπεσον", "back": "I fall, I fell" },
+    { "front": "προσέρχομαι", "back": "I come to, approach (usually + dative)" },
+    { "front": "προσφέρω", "back": "I offer, present" },
+    { "front": "σημεῖον, τό", "back": "sign, miracle, portent (semaphore)" },
+    { "front": "φάγομαι, ἔφαγον", "back": "I will eat, I ate (deponent future, 2nd aor. of ἐσθίω)" },
+    { "front": "φεύγω, φεύξομαι, ἔφυγον", "back": "I flee, I will flee, I fled (fugitive)" }
+  ]
+}

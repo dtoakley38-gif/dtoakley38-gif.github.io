@@ -1,0 +1,20 @@
+{
+  "title": "Lesson 12",
+  "description": "Vocabulary from Lesson 12 — the future tense, including the deponent futures of γίνομαι, γινώσκω, ἔρχομαι, and λαμβάνω.",
+  "cards": [
+    { "front": "ἀνοίγω", "back": "I open" },
+    { "front": "γενήσομαι", "back": "I will become (deponent fut. of γίνομαι)" },
+    { "front": "γνώσομαι", "back": "I will know (deponent fut. of γινώσκω)" },
+    { "front": "διδάξω", "back": "I will teach" },
+    { "front": "διδάσκαλος, ὁ", "back": "teacher" },
+    { "front": "δοξάζω", "back": "I glorify" },
+    { "front": "εἰ", "back": "if, whether (usually followed by an indicative mood verb)" },
+    { "front": "ἐλεύσομαι", "back": "I will come (deponent fut. of ἔρχομαι)" },
+    { "front": "θαυμάζω", "back": "I marvel, wonder (thaumaturge)" },
+    { "front": "κηρύσσω", "back": "I preach, proclaim" },
+    { "front": "λήμψομαι", "back": "I will take, receive (deponent fut. of λαμβάνω)" },
+    { "front": "νῦν", "back": "now" },
+    { "front": "προσεύχομαι", "back": "I pray" },
+    { "front": "φέρω", "back": "I bring, bear, carry (Christopher, pheresis)" }
+  ]
+}
