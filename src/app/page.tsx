@@ -1,9 +1,11 @@
-import { listDecks } from "@/lib/decks";
+import Link from "next/link";
+import { listDecks, listAllWords } from "@/lib/decks";
 import { DeckCard } from "@/components/DeckCard";
 import { Wordmark } from "@/components/Wordmark";
 
 export default function Home() {
   const decks = listDecks();
+  const wordCount = listAllWords().length;
 
   return (
     <div className="flex-1 flex flex-col">
@@ -17,6 +19,13 @@ export default function Home() {
           <p className="mt-1 text-sm text-muted">
             Give Claude a file for any topic and it&apos;ll show up here as a new deck.
           </p>
+          <Link
+            href="/words"
+            className="glass press mt-4 inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-medium text-brand-green-light hover:border-brand-green-light/40 transition-colors"
+          >
+            Word bank
+            <span className="text-muted">{wordCount} words</span>
+          </Link>
         </div>
 
         {decks.length === 0 ? (

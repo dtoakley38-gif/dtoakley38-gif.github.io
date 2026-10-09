@@ -10,11 +10,19 @@ export type Deck = {
   slug: string;
   title: string;
   description: string;
+  // Decks opt out of the word bank with "wordBank": false — the welcome deck
+  // holds how-to cards rather than vocabulary. Defaults to taking part.
+  wordBank?: boolean;
   cards: Flashcard[];
 };
 
 export type DeckSummary = Pick<Deck, "slug" | "title" | "description"> & {
   cardCount: number;
+};
+
+export type WordEntry = Flashcard & {
+  deckSlug: string;
+  deckTitle: string;
 };
 
 const DECKS_DIR = path.join(process.cwd(), "src", "content", "decks");
@@ -28,7 +36,8 @@ function readDeckFile(slug: string): Deck | null {
   return { slug, ...parsed };
 }
 
-export function listDecks(): DeckSummary[] {
+// Numeric compare so Lesson 10 sorts after Lesson 9, not after Lesson 1.
+function readAllDecks(): Deck[] {
   if (!fs.existsSync(DECKS_DIR)) return [];
 
   return fs
@@ -36,16 +45,30 @@ export function listDecks(): DeckSummary[] {
     .filter((entry) => entry.isDirectory())
     .map((entry) => readDeckFile(entry.name))
     .filter((deck): deck is Deck => deck !== null)
-    .map(({ slug, title, description, cards }) => ({
-      slug,
-      title,
-      description,
-      cardCount: cards.length,
-    }))
     .sort((a, b) => a.title.localeCompare(b.title, undefined, { numeric: true }));
+}
+
+export function listDecks(): DeckSummary[] {
+  return readAllDecks().map(({ slug, title, description, cards }) => ({
+    slug,
+    title,
+    description,
+    cardCount: cards.length,
+  }));
+}
+
+export function listAllWords(): WordEntry[] {
+  return readAllDecks()
+    .filter((deck) => deck.wordBank !== false)
+    .flatMap((deck) =>
+      deck.cards.map((card) => ({
+        ...card,
+        deckSlug: deck.slug,
+        deckTitle: deck.title,
+      })),
+    );
 }
 
 export function getDeck(slug: string): Deck | null {
   return readDeckFile(slug);
 }
-

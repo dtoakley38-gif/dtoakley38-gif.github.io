@@ -1,6 +1,7 @@
 {
   "title": "Welcome to Greek Flashcards",
   "description": "A quick sample deck to try out studying before you load your own topic.",
+  "wordBank": false,
   "cards": [
     { "front": "How do I add a new topic?", "back": "Give Claude a file (notes, PDF, doc) in chat and ask it to add a deck — it'll drop a new folder right here." },
     { "front": "How do I flip a card?", "back": "Tap or click the card. On desktop you can also press Space or Enter." },
