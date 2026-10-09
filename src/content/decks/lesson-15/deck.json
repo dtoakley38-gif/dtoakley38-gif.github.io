@@ -1,0 +1,19 @@
+{
+  "title": "Lesson 15",
+  "description": "Vocabulary from Lesson 15 — the perfect tense, including the perfects that stand in for ἔρχομαι, λέγω, and ὁράω.",
+  "cards": [
+    { "front": "ἀκήκοα", "back": "I have heard (perfect of ἀκούω)" },
+    { "front": "γέγονα", "back": "I have become, been (perfect of γίνομαι)" },
+    { "front": "ἐγγίζω", "back": "I draw near (perfect = ἤγγικα)" },
+    { "front": "ἐγήγερμαι", "back": "I have been raised, am risen (perf. pass. of ἐγείρω)" },
+    { "front": "ἔγνωκα", "back": "I have come to know (perfect of γινώσκω)" },
+    { "front": "εἴρηκα", "back": "I have said, spoken (serves as the perfect of λέγω)" },
+    { "front": "ἐλήλυθα", "back": "I have come, gone (serves as the perfect of ἔρχομαι)" },
+    { "front": "ἕτερος, -α, -ον", "back": "other, different (heterodoxy, heterosexual)" },
+    { "front": "ἑώρακα", "back": "I have seen (serves as the perfect of ὁράω)" },
+    { "front": "οὔπω", "back": "not yet" },
+    { "front": "πέποιθα", "back": "I depend on, trust in (perfect active of πείθω)" },
+    { "front": "πολλάκις", "back": "often, many times" },
+    { "front": "τέθνηκα", "back": "I have died, I am dead (perfect of θνῄσκω)" }
+  ]
+}
