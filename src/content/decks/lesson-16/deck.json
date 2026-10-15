@@ -1,0 +1,19 @@
+{
+  "title": "Lesson 16",
+  "description": "Vocabulary from Lesson 16 — the aorist passive, including the forms that stand in for φέρω, ἄγω, and ὁράω.",
+  "cards": [
+    { "front": "ἀπεστάλην", "back": "I was sent (2nd aorist passive of ἀποστέλλω)" },
+    { "front": "ἐβλήθην", "back": "I was thrown (aorist passive of βάλλω)" },
+    { "front": "ἐγενήθην", "back": "I became (aorist passive deponent of γίνομαι)" },
+    { "front": "ἐγνώσθην", "back": "I was known (aorist passive of γινώσκω)" },
+    { "front": "ἐγράφην", "back": "I was written (2nd aorist passive of γράφω)" },
+    { "front": "ἐκβάλλω", "back": "I cast out" },
+    { "front": "ἐλήμφθην", "back": "I was taken (aorist passive of λαμβάνω)" },
+    { "front": "εὑρέθην", "back": "I was found (aorist passive of εὑρίσκω)" },
+    { "front": "ἠγέρθην", "back": "I was raised (aorist passive of ἐγείρω)" },
+    { "front": "ἠνέχθην", "back": "I was brought (serves as the aorist passive of φέρω)" },
+    { "front": "ἤχθην", "back": "I was led (aor. pass. of ἄγω)" },
+    { "front": "πῶς", "back": "how?" },
+    { "front": "ὤφθην", "back": "I was seen, I appeared (serves as the aorist passive of ὁράω)" }
+  ]
+}

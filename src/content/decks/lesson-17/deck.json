@@ -1,0 +1,21 @@
+{
+  "title": "Lesson 17",
+  "description": "Vocabulary from Lesson 17 — third declension nouns, listed with their genitive and gender.",
+  "cards": [
+    { "front": "αἷμα, -ατος, τό", "back": "blood (hemo-)" },
+    { "front": "αἰών, αἰῶνος, ὁ", "back": "age, world (eon)" },
+    { "front": "ἀνήρ, ἀνδρός, ὁ", "back": "man, husband (android, androgynous)" },
+    { "front": "ἄρχων, ἄρχοντος, ὁ", "back": "ruler (monarch)" },
+    { "front": "γυνή, γυναικός, ἡ", "back": "woman, wife (gynecology, androgynous)" },
+    { "front": "ἕως", "back": "until; (+ gen.) to, as far as, to the point of, until" },
+    { "front": "θέλημα, -ατος, τό", "back": "will" },
+    { "front": "νύξ, νυκτός, ἡ", "back": "night (nocturnal)" },
+    { "front": "ὄνομα, -ατος, τό", "back": "name (anonymous, pseudonym)" },
+    { "front": "πνεῦμα, -ατος, τό", "back": "spirit, Spirit, wind, breath (pneumatic, pneumonia)" },
+    { "front": "ῥῆμα, -ατος, τό", "back": "word (rhetoric)" },
+    { "front": "σάρξ, σαρκός, ἡ", "back": "flesh (sarcophagus, sarcasm)" },
+    { "front": "σπέρμα, -ατος, τό", "back": "seed, offspring, children (sperm)" },
+    { "front": "στόμα, -ατος, τό", "back": "mouth (stomach)" },
+    { "front": "σῶμα, -ατος, τό", "back": "body (somatic)" }
+  ]
+}
