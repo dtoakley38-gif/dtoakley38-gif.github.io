@@ -1,6 +1,6 @@
 {
   "title": "Lesson 17",
-  "description": "Vocabulary from Lesson 17 — third declension nouns, listed with their genitive and gender.",
+  "description": "Vocabulary from Lesson 17 — third declension nouns with their genitive and gender, plus the αἰών idioms.",
   "cards": [
     { "front": "αἷμα, -ατος, τό", "back": "blood (hemo-)" },
     { "front": "αἰών, αἰῶνος, ὁ", "back": "age, world (eon)" },
@@ -16,6 +16,9 @@
     { "front": "σάρξ, σαρκός, ἡ", "back": "flesh (sarcophagus, sarcasm)" },
     { "front": "σπέρμα, -ατος, τό", "back": "seed, offspring, children (sperm)" },
     { "front": "στόμα, -ατος, τό", "back": "mouth (stomach)" },
-    { "front": "σῶμα, -ατος, τό", "back": "body (somatic)" }
+    { "front": "σῶμα, -ατος, τό", "back": "body (somatic)" },
+    { "front": "εἰς τὸν αἰῶνα", "back": "forever (also εἰς τοὺς αἰῶνας)" },
+    { "front": "εἰς τοὺς αἰῶνας τῶν αἰώνων", "back": "forever and ever" },
+    { "front": "ἕως τοῦ αἰῶνος", "back": "forever (LXX)" }
   ]
 }
