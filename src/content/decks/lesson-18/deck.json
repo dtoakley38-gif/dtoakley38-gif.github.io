@@ -1,0 +1,16 @@
+{
+  "title": "Lesson 18",
+  "description": "Vocabulary from Lesson 18 — deponent verbs, the negative μή, and the present participle of εἰμί.",
+  "cards": [
+    { "front": "ἁμαρτάνω", "back": "I sin (hamartiology)" },
+    { "front": "βούλομαι", "back": "(dep.) I wish, want" },
+    { "front": "διώκω", "back": "I persecute, pursue" },
+    { "front": "ἐργάζομαι", "back": "(dep.) I work, do (energy)" },
+    { "front": "εὐαγγελίζομαι", "back": "(usu. dep.) I bring good news, preach (evangelize)" },
+    { "front": "κάθημαι", "back": "(dep.) I sit, live, stay" },
+    { "front": "λογίζομαι", "back": "(dep.) I reckon, consider" },
+    { "front": "μή", "back": "not (the usual negative for non-indicative moods)" },
+    { "front": "ὑπάρχω", "back": "I am, exist (τὰ ὑπάρχοντα, possessions, belongings)" },
+    { "front": "ὤν, οὖσα, ὄν", "back": "being (present participle of εἰμί) (ontology)" }
+  ]
+}
