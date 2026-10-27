@@ -1,0 +1,16 @@
+{
+  "title": "Lesson 19",
+  "description": "Vocabulary from Lesson 19 — third declension family and body words, plus compounds of γίνομαι and λαμβάνω.",
+  "cards": [
+    { "front": "ἀσπάζομαι", "back": "I greet, salute" },
+    { "front": "καθίζω", "back": "I sit; seat (trans.) (cathedral)" },
+    { "front": "μήτηρ, μητρός, ἡ", "back": "mother (maternal)" },
+    { "front": "παραγίνομαι", "back": "I come, arrive" },
+    { "front": "παραλαμβάνω", "back": "I receive, take along" },
+    { "front": "πατήρ, πατρός, ὁ", "back": "father (paternal)" },
+    { "front": "πούς, ποδός, ὁ", "back": "foot (podiatry)" },
+    { "front": "σάββατον, τό", "back": "Sabbath" },
+    { "front": "συναγωγή, ἡ", "back": "synagogue, gathering" },
+    { "front": "χείρ, χειρός, ἡ", "back": "hand (chiropractic)" }
+  ]
+}

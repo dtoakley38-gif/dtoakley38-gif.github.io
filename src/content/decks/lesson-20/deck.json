@@ -1,0 +1,15 @@
+{
+  "title": "Lesson 20",
+  "description": "Vocabulary from Lesson 20 — verbs in -ιζω and -αζω, plus χάρις and its irregular accusative.",
+  "cards": [
+    { "front": "ἁγιάζω", "back": "I sanctify, consecrate (hagiography)" },
+    { "front": "γνωρίζω", "back": "I make known, reveal" },
+    { "front": "εὐαγγέλιον, τό", "back": "good news, Gospel (evangel)" },
+    { "front": "θύρα, ἡ", "back": "door" },
+    { "front": "κτίζω", "back": "I create" },
+    { "front": "τυφλός, -ή, -όν", "back": "blind, blind person" },
+    { "front": "φυλακή, ἡ", "back": "prison, watch, guard (prophylactic)" },
+    { "front": "χαρίζομαι", "back": "I graciously give, forgive" },
+    { "front": "χάρις, χάριτος, ἡ", "back": "grace, favor (charisma) — accusative singular is usually χάριν" }
+  ]
+}
