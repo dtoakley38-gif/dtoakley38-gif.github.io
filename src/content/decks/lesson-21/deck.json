@@ -1,0 +1,25 @@
+{
+  "title": "Lesson 21",
+  "description": "Vocabulary from Lesson 21 — contract verbs in -αω, -εω, and -οω, plus the reflexive pronouns and πᾶς.",
+  "cards": [
+    { "front": "ἀγαπάω", "back": "I love" },
+    { "front": "αἰτέω", "back": "I ask, ask for, request (often mid. voice)" },
+    { "front": "ἀκολουθέω", "back": "I follow (+ dat.) (acolyte)" },
+    { "front": "γεννάω", "back": "I beget, bear" },
+    { "front": "ἑαυτοῦ", "back": "of himself, herself, etc." },
+    { "front": "ἐμαυτοῦ", "back": "of myself" },
+    { "front": "ζάω", "back": "I live (conjugated with η rather than α in the present tense)" },
+    { "front": "ζητέω", "back": "I seek, ask for, deliberate" },
+    { "front": "καλέω", "back": "I call, name, invite" },
+    { "front": "λαλέω", "back": "I speak (glossolalia)" },
+    { "front": "ὁράω", "back": "I see (panorama)" },
+    { "front": "παρακαλέω", "back": "I exhort, encourage, comfort (Paraclete)" },
+    { "front": "πᾶς, πᾶσα, πᾶν", "back": "all, every; entire, whole (pantheism, panacea)" },
+    { "front": "περιπατέω", "back": "I walk, live (peripatetic)" },
+    { "front": "πληρόω", "back": "I fill, make full of, fulfill" },
+    { "front": "ποιέω", "back": "I do, make (poem)" },
+    { "front": "σεαυτοῦ", "back": "of yourself" },
+    { "front": "σταυρόω", "back": "I crucify" },
+    { "front": "φοβέομαι", "back": "I fear (phobia)" }
+  ]
+}

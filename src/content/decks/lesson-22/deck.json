@@ -1,0 +1,23 @@
+{
+  "title": "Lesson 22",
+  "description": "Vocabulary from Lesson 22 — liquid verbs, the possessive adjectives, and third declension neuters.",
+  "cards": [
+    { "front": "ἀλλήλων", "back": "of each other, of one another" },
+    { "front": "ἀπαγγέλλω", "back": "I report, announce, declare" },
+    { "front": "δοκέω", "back": "I think, seem, seem good (Docetic)" },
+    { "front": "ἕκαστος, -η, -ον", "back": "each, every" },
+    { "front": "ἐμός, ἐμή, ἐμόν", "back": "my, mine" },
+    { "front": "ἐντολή, ἡ", "back": "commandment" },
+    { "front": "ἡμέτερος, -α, -ον", "back": "our" },
+    { "front": "ὅπου", "back": "where, whither" },
+    { "front": "πεσοῦμαι", "back": "I will fall (fut. of πίπτω)" },
+    { "front": "προσκυνέω", "back": "I worship, bow down to (usu. + dat., less often + acc.)" },
+    { "front": "πῦρ, πυρός, τό", "back": "fire (pyro-)" },
+    { "front": "σός, σή, σόν", "back": "your (sing.)" },
+    { "front": "σπείρω", "back": "I sow" },
+    { "front": "τηρέω", "back": "I keep, observe, obey" },
+    { "front": "ὕδωρ, ὕδατος, τό", "back": "water (hydrant)" },
+    { "front": "ὑμέτερος, -α, -ον", "back": "your (pl.)" },
+    { "front": "φῶς, φωτός, τό", "back": "light (photo)" }
+  ]
+}
